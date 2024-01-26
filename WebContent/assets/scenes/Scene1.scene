@@ -1,0 +1,46 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.0.3",
+  "-version": 1,
+  "displayList": {
+    "-id": "8d715559-399d-42e9-9525-4a1dc0336b31",
+    "-type": "DisplayList",
+    "children": [
+      {
+        "-id": "805e9266-fdda-4055-b998-329a029ce732",
+        "-type": "Image",
+        "children": [],
+        "variableName": "button",
+        "variableField": false,
+        "x": 49.146942138671875,
+        "y": 859.100341796875,
+        "scaleX": 0.1116824522614479,
+        "scaleY": 0.09157270193099976,
+        "textureKey": "textures",
+        "textureFrame": "button"
+      },
+      {
+        "-id": "487a7f7c-8064-4671-91e9-36223dd09601",
+        "-type": "Image",
+        "children": [],
+        "variableName": "chicken1",
+        "variableField": false,
+        "x": 58.65155029296875,
+        "y": 688.8606567382812,
+        "scaleX": 0.6104060411453247,
+        "scaleY": 0.5188510417938232,
+        "textureKey": "textures",
+        "textureFrame": "chicken1"
+      }
+    ]
+  },
+  "groups": {
+    "-id": "89eecac1-e75a-4225-a3ba-7ac59572410e",
+    "-type": "Groups",
+    "children": []
+  },
+  "borderWidth": 450,
+  "borderHeight": 900,
+  "createMethodName": "_create",
+  "methodContextType": "SCENE",
+  "sceneKey": "Scene1"
+}
